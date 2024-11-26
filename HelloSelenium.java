@@ -21,10 +21,6 @@ public class HelloSelenium {
         String st = driver.getTitle();
         System.out.println(st);
 
-
-
-
-
         // Perform testing and assertions
 
         // Close the browser
@@ -33,3 +29,28 @@ public class HelloSelenium {
         driver.quit();
     }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

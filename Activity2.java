@@ -20,6 +20,7 @@ public class Activity2 {
 
         WebElement w= driver.findElement(By.id("action-conformation"));
         System.out.println(w);
+
         driver.quit();
     }
 }
